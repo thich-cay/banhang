@@ -82,15 +82,15 @@ class Footer extends React.Component {
             <a href={`${this.props.config.baseUrl}blog`}>Tài liệu</a>
             <a href="https://banhang.thichcay.com/">Seller Center</a>
             <a
-              className="github-button"
+              className="facebook-button"
               href={this.props.config.repoUrl}
               data-icon="octicon-star"
-              data-count-href="/facebook/docusaurus/stargazers"
+              data-count-href="/facebook/thichcay.vn"
               data-show-count="true"
-              data-count-aria-label="# stargazers on GitHub"
-              aria-label="Star this project on GitHub"
+              data-count-aria-label="# like on Facebook"
+              aria-label="Like us on Facebook"
             >
-              Star
+              Like
             </a>
           </div>
         </section>
