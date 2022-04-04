@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2017-present, Facebook, Inc.
+ * Copyright (c) 2022, Thich Am Thuc LLC.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -98,8 +98,8 @@ class Index extends React.Component {
         className="productShowcaseSection paddingBottom"
         style={{ textAlign: 'center' }}
       >
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>TRUNG TÂM HỖ TRỢ NGƯỜI BÁN</h2>
+        <MarkdownBlock>Chúng tôi liên tục cập nhật tính năng, tài liệu hỗ trợ kinh doanh tại đây</MarkdownBlock>
       </div>
     );
 
@@ -149,16 +149,16 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'Chuyên nghiệp hóa hình thức kinh doanh, nâng cao lợi nhuận',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: 'Trở thành Đại lý của Thích Cay',
           },
           {
-            content: 'The content of my second feature',
+            content: 'Thương mại điện tử hóa cùng Thích Cay',
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Hỗ trợ, Quyền lợi người bán được đảm bảo',
           },
         ]}
       </Block>
