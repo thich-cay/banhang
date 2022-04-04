@@ -43,10 +43,10 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: 'doc1', label: 'Docs' },
-    { doc: 'doc4', label: 'API' },
-    { page: 'help', label: 'Help' },
-    { blog: true, label: 'Blog' },
+    { doc: 'doc1', label: 'Hướng dẫn' },
+    { doc: 'doc4', label: 'Chính sách' },
+    { page: 'help', label: 'Liên hệ' },
+    { blog: true, label: 'Tham khảo' },
   ],
 
   // If you have users set above, you add it here:
@@ -59,7 +59,7 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#03453a',
+    primaryColor: '#053D1C',
     secondaryColor: '#023028',
   },
 
