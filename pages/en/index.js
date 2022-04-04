@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2022-present, Thich Am Thuc LLC.
+ * Copyright (c) 2017-present, Facebook, Inc.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -98,8 +98,8 @@ class Index extends React.Component {
         className="productShowcaseSection paddingBottom"
         style={{ textAlign: 'center' }}
       >
-        <h2>ĐỒNG HÀNH PHÁT TRIỂN CÙNG NGƯỜI BÁN</h2>
-        <MarkdownBlock>growing faster together</MarkdownBlock>
+        <h2>Feature Callout</h2>
+        <MarkdownBlock>These are features of this project</MarkdownBlock>
       </div>
     );
 
@@ -108,11 +108,12 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Ngành thương mại điện tử Việt Nam trong năm 2022 sẽ tiếp tục phát triển mạnh và tạo xung lực mới cho tăng trưởng của nền kinh tế. '
-              + 'Các đối tác bán hàng của Thích Cay sẽ được hỗ trợ nhằm tối ưu trên các nền tảng TMĐT như Shopee, Lazada,...'
+              'To make your landing page more attractive, use illustrations! Check out ' +
+              '[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. ' +
+              'The illustrations you see on this page are from unDraw.',
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: 'left',
-            title: 'Hỗ trợ khách hàng cùng Thương mại điện tử',
+            title: 'Wonderful SVG Illustrations',
           },
         ]}
       </Block>
@@ -123,10 +124,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Quyền lợi người bán, đại lý, nhà phân phối chính là tiềm năng phát triển của chúng tôi. Chúng tôi luôn sát cánh để phát triển đại lý, người bán sỉ toàn quốc một cách tốt nhất.',
+              'This is another description of how this project is useful',
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: 'right',
-            title: 'Nâng tầm doanh nghiệp, gia tăng doanh số',
+            title: 'Description',
           },
         ]}
       </Block>
@@ -137,10 +138,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Người bán, đại lý sẽ luôn được đội ngũ kinh doanh của Thích Ẩm Thực LLC. tư vấn chiến lược, giá bán cũng như cách thức vận hành giúp cho người bán bắt đầu kinh doanh dễ dàng cũng như tăng dần lợi nhuận.',
+              'Each new Docusaurus project has **randomly-generated** theme colors.',
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: 'right',
-            title: 'Đầu tư đơn giản, vốn lưu động thấp',
+            title: 'Randomly Generated Theme Colors',
           },
         ]}
       </Block>
