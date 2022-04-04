@@ -40,8 +40,14 @@ class Footer extends React.Component {
             <a href={this.docUrl('seller.html', this.props.language)}>
               Bắt đầu bán hàng cùng Thích Cay
             </a>
-            <a href={this.docUrl('guide.html', this.props.language)}>
+            <a href={this.docUrl('guideline.html', this.props.language)}>
               Hướng dẫn Người bán
+            </a>
+            <a href={this.docUrl('partner.html', this.props.language)}>
+              Chính sách Đại lý
+            </a>
+            <a href={this.docUrl('return.html', this.props.language)}>
+              Quy định đổi trả hàng
             </a>
             <a href={this.docUrl('tips.html', this.props.language)}>
               Mẹo bán hàng
