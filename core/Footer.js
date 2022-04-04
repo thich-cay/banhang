@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2017-present, Facebook, Inc.
+ * Copyright (c) 2021-present, Thich Am Thuc LLC.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -70,8 +70,8 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
+            <a href={`${this.props.config.baseUrl}blog`}>Seller Center</a>
+            <a href="https://banhang.thichcay.com/">Thich Am Thuc LLC</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
@@ -87,7 +87,7 @@ class Footer extends React.Component {
         </section>
 
         <a
-          href="https://opensource.facebook.com/"
+          href="https://banhang.thichcay.com/"
           target="_blank"
           rel="noreferrer noopener"
           className="fbOpenSource"
