@@ -45,7 +45,7 @@ const siteConfig = {
   headerLinks: [
     { doc: 'seller', label: 'Hướng dẫn' },
     { doc: 'partner', label: 'Chính sách' },
-    { contact: true, label: 'Liên hệ' },
+    { page: 'contact', label: 'Liên hệ' },
     { blog: true, label: 'Tham khảo' },
   ],
 
