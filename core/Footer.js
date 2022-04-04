@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2021-present, Thich Am Thuc LLC.
+ * Copyright (c) 2022, Thich Am Thuc LLC.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -36,7 +36,7 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>Docs</h5>
+            <h5>Tham khảo</h5>
             <a href={this.docUrl('seller.html', this.props.language)}>
               Bắt đầu bán hàng cùng Thích Cay
             </a>
@@ -48,18 +48,21 @@ class Footer extends React.Component {
             </a>
           </div>
           <div>
-            <h5>Community</h5>
+            <h5>Cộng đồng</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
-              Pinterest
+              Seller Forum
             </a>
             <a
               href="https://pinterest.com/thichcayvn/"
               target="_blank"
               rel="noreferrer noopener"
             >
+              Pinterest
+            </a>
+            <a href="https://github.com/thichcay/">
+              
               Github
             </a>
-            <a href="https://github.com/thichcay/">Project Chat</a>
             <a
               href="https://facebook.com/thichcay.vn/"
               target="_blank"
@@ -69,9 +72,9 @@ class Footer extends React.Component {
             </a>
           </div>
           <div>
-            <h5>More</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>Seller Center</a>
-            <a href="https://banhang.thichcay.com/">Thich Am Thuc LLC</a>
+            <h5>Link</h5>
+            <a href={`${this.props.config.baseUrl}blog`}>Tài liệu</a>
+            <a href="https://banhang.thichcay.com/">Seller Center</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
