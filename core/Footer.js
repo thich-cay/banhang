@@ -77,6 +77,8 @@ class Footer extends React.Component {
               Facebook
             </a>
           </div>
+          <div id="fb-root"></div>
+          <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v13.0" nonce="78zTGjhA"></script>
           <div>
             <h5>Link</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Tài liệu</a>
@@ -93,6 +95,7 @@ class Footer extends React.Component {
               Like
             </a>
           </div>
+          <div class="fb-like" data-href="https://www.facebook.com/thichcay.vn/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>  
         </section>
 
         <a
