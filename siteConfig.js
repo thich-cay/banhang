@@ -53,14 +53,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
+  headerIcon: 'img/logo.svg',
+  footerIcon: 'img/thichamthuc.svg',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#023028',
-    secondaryColor: '#03441D',
+    primaryColor: '#03453a',
+    secondaryColor: '#023028',
   },
 
   /* Custom fonts for website */
