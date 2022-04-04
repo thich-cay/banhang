@@ -38,34 +38,34 @@ class Footer extends React.Component {
           <div>
             <h5>Docs</h5>
             <a href={this.docUrl('seller.html', this.props.language)}>
-              Getting Started (or other categories)
+              Bắt đầu bán hàng cùng Thích Cay
             </a>
-            <a href={this.docUrl('doc2.html', this.props.language)}>
-              Guides (or other categories)
+            <a href={this.docUrl('guide.html', this.props.language)}>
+              Hướng dẫn Người bán
             </a>
-            <a href={this.docUrl('doc3.html', this.props.language)}>
-              API Reference (or other categories)
+            <a href={this.docUrl('tips.html', this.props.language)}>
+              Mẹo bán hàng
             </a>
           </div>
           <div>
             <h5>Community</h5>
             <a href={this.pageUrl('users.html', this.props.language)}>
-              User Showcase
+              Pinterest
             </a>
             <a
-              href="https://stackoverflow.com/questions/tagged/"
+              href="https://pinterest.com/thichcayvn/"
               target="_blank"
               rel="noreferrer noopener"
             >
-              Stack Overflow
+              Github
             </a>
-            <a href="https://discordapp.com/">Project Chat</a>
+            <a href="https://github.com/thichcay/">Project Chat</a>
             <a
-              href="https://twitter.com/"
+              href="https://facebook.com/thichcay.vn/"
               target="_blank"
               rel="noreferrer noopener"
             >
-              Twitter
+              Facebook
             </a>
           </div>
           <div>
@@ -93,8 +93,8 @@ class Footer extends React.Component {
           className="fbOpenSource"
         >
           <img
-            src={`${this.props.config.baseUrl}img/oss_logo.png`}
-            alt="Facebook Open Source"
+            src={`${this.props.config.baseUrl}img/thichamthuc.svg`}
+            alt="Thich Am Thuc LLC"
             width="170"
             height="45"
           />
