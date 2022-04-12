@@ -1,7 +1,7 @@
 ---
-title: Adding RSS Support - RSS Truncation Test
-author: Eric Nakagawa
-authorURL: http://twitter.com/ericnakagawa
+title: Cập nhật tính năng bán hàng
+author: Thích Cay Seller Center
+authorURL: http://banhang.thichcay.com/docs/
 authorFBID: 661277173
 ---
 
