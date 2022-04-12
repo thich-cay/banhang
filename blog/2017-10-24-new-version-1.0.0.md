@@ -1,7 +1,7 @@
 ---
-title: New Version 1.0.0
-author: Eric Nakagawa
-authorURL: http://twitter.com/ericnakagawa
+title: Cửa hàng trực tuyến
+author: Thích Cay Store
+authorURL: http://www.thichcay.com/shop/
 authorFBID: 661277173
 ---
 
