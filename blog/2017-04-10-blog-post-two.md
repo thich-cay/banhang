@@ -1,7 +1,7 @@
 ---
-title: New Blog Post
-author: Blog Author
-authorURL: http://twitter.com/
+title: Cách làm mì trộn thần thánh
+author: FB Thích Cay
+authorURL: http://www.facebook.com/thichcay.vn/
 authorFBID: 100002976521003
 ---
 
