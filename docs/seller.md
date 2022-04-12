@@ -1,10 +1,10 @@
 ---
 id: seller
-title: Trở thành Đại lý, Người bán Chính thức
+title: Quyền lợi Đại lý, Người bán chính thức
 sidebar_label: Đại lý chính thức
 ---
 
-## Trở thành người bán, đại lý chính thức của Thích Cay
+## Quyền lợi Đại lý, Người bán chính thức
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
 
